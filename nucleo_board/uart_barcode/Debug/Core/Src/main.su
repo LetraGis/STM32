@@ -1,0 +1,10 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1724:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+main.c:64:6:USART1_IRQHandler	8	static
+main.c:70:6:Barcode_Reader	48	static
+main.c:103:5:main	16	static
+main.c:213:6:SystemClock_Config	88	static
+main.c:264:13:MX_USART1_UART_Init	8	static
+main.c:297:13:MX_USART2_UART_Init	8	static
+main.c:330:13:MX_GPIO_Init	48	static
+main.c:366:6:Error_Handler	4	static
