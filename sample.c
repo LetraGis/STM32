@@ -1,3 +1,0 @@
-
-/* New content */
-/* More content */
